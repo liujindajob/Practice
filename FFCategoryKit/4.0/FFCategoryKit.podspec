@@ -24,7 +24,8 @@ TODO: Add long description of the pod here.
   s.homepage         = 'https://github.com/liujindajob/PracticeCode'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'liujinda' => 'liujinda_job@163.com' }
+  s.author           = { 'liujinda' => 'liujinda_job@
+      .com' }
   s.source           = { :git => 'https://github.com/liujindajob/PracticeCode.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
